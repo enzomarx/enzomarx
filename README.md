@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- this is to add stats in the profile:  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzomarx)](https://github.com/anuraghazr/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzomarx)](https://github.com/anuraghazr/github-readme-stats)
 -->
-<!-- este mostra as linguagens mais ultilizadas:  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzomarx)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzomarx)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
+<!-- este mostra as linguagens mais ultilizadas: 
+<!-- this is to add stats in the profile:
