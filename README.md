@@ -83,7 +83,7 @@ You are lost in a dense forest. The sun is setting, and you hear wolves howling.
   </details>
 </details>
 
-[Start a new adventure](enzomarxsantos@gmail.com)
+[Start a new adventure](https://github.com/enzomarx/send-me-an-email)
 
 ---
 
