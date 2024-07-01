@@ -38,7 +38,112 @@ You are lost in a dense forest. The sun is setting, and you hear wolves howling.
         
         You call Enzo, and he swiftly arrives with a drone, rescuing you from the forest. You're safe! 🌟
         
-        [Start a new adventure](#1-lost-in-the-forest)
+        <details>
+          <summary>**Continue to the next adventure**</summary>
+          
+          ### 2. Trapped in a Burning Building 🔥
+          You are trapped in a burning building. Smoke is filling the room. What will you do?
+
+          1. **Find the nearest exit**
+          2. **Call Enzo for help**
+
+          <details>
+            <summary>**Find the nearest exit**</summary>
+            
+            You find the nearest exit, but it's blocked by flames. The situation is dire.
+            
+            1. **Try to put out the fire**
+            2. **Call Enzo for help**
+
+            <details>
+              <summary>**Try to put out the fire**</summary>
+              
+              You try to put out the fire, but it's too strong. The smoke is overwhelming.
+              
+              1. **Call Enzo for help**
+              
+              <details>
+                <summary>**Call Enzo for help**</summary>
+                
+                You call Enzo, and he arrives with a fire extinguisher and a safe exit plan. You escape unharmed! 🌟
+                
+                <details>
+                  <summary>**Continue to the next adventure**</summary>
+                  
+                  ### 3. Caught in a Cyber Attack 💻
+                  Your computer is under a severe cyber attack. Important data is at risk. What will you do?
+
+                  1. **Try to fend off the attack yourself**
+                  2. **Call Enzo for help**
+
+                  <details>
+                    <summary>**Try to fend off the attack yourself**</summary>
+                    
+                    You attempt to fend off the attack but realize the hackers are too skilled.
+                    
+                    1. **Call Enzo for help**
+
+                    <details>
+                      <summary>**Call Enzo for help**</summary>
+                      
+                      You call Enzo, and he quickly restores your system, implementing strong security measures. Your data is safe! 🌟
+                      
+                      [Start a new adventure](#1-lost-in-the-forest)
+                    </details>
+                  </details>
+
+                  <details>
+                    <summary>**Call Enzo for help**</summary>
+                    
+                    You call Enzo, and he quickly restores your system, implementing strong security measures. Your data is safe! 🌟
+                    
+                    [Start a new adventure](#1-lost-in-the-forest)
+                  </details>
+                </details>
+              </details>
+            </details>
+
+            <details>
+              <summary>**Call Enzo for help**</summary>
+              
+              You call Enzo, and he arrives with a fire extinguisher and a safe exit plan. You escape unharmed! 🌟
+              
+              <details>
+                <summary>**Continue to the next adventure**</summary>
+                
+                ### 3. Caught in a Cyber Attack 💻
+                Your computer is under a severe cyber attack. Important data is at risk. What will you do?
+
+                1. **Try to fend off the attack yourself**
+                2. **Call Enzo for help**
+
+                <details>
+                  <summary>**Try to fend off the attack yourself**</summary>
+                  
+                  You attempt to fend off the attack but realize the hackers are too skilled.
+                  
+                  1. **Call Enzo for help**
+
+                  <details>
+                    <summary>**Call Enzo for help**</summary>
+                    
+                    You call Enzo, and he quickly restores your system, implementing strong security measures. Your data is safe! 🌟
+                    
+                    [Start a new adventure](#1-lost-in-the-forest)
+                  </details>
+                </details>
+
+                <details>
+                  <summary>**Call Enzo for help**</summary>
+                  
+                  You call Enzo, and he quickly restores your system, implementing strong security measures. Your data is safe! 🌟
+                  
+                  [Start a new adventure](#1-lost-in-the-forest)
+                </details>
+              </details>
+            </details>
+          </details>
+        </details>
       </details>
     </details>
     
@@ -47,16 +152,113 @@ You are lost in a dense forest. The sun is setting, and you hear wolves howling.
       
       You call Enzo, and he swiftly arrives with a drone, rescuing you from the forest. You're safe! 🌟
       
-      [Start a new adventure](#1-lost-in-the-forest)
-    </details>
-  </details>
+      <details>
+        <summary>**Continue to the next adventure**</summary>
+        
+        ### 2. Trapped in a Burning Building 🔥
+        You are trapped in a burning building. Smoke is filling the room. What will you do?
 
-  <details>
-    <summary>**Call Enzo for help**</summary>
-    
-    You call Enzo, and he swiftly arrives with a drone, rescuing you from the forest. You're safe! 🌟
-    
-    [Start a new adventure](#1-lost-in-the-forest)
+        1. **Find the nearest exit**
+        2. **Call Enzo for help**
+
+        <details>
+          <summary>**Find the nearest exit**</summary>
+          
+          You find the nearest exit, but it's blocked by flames. The situation is dire.
+          
+          1. **Try to put out the fire**
+          2. **Call Enzo for help**
+
+          <details>
+            <summary>**Try to put out the fire**</summary>
+            
+            You try to put out the fire, but it's too strong. The smoke is overwhelming.
+            
+            1. **Call Enzo for help**
+            
+            <details>
+              <summary>**Call Enzo for help**</summary>
+              
+              You call Enzo, and he arrives with a fire extinguisher and a safe exit plan. You escape unharmed! 🌟
+              
+              <details>
+                <summary>**Continue to the next adventure**</summary>
+                
+                ### 3. Caught in a Cyber Attack 💻
+                Your computer is under a severe cyber attack. Important data is at risk. What will you do?
+
+                1. **Try to fend off the attack yourself**
+                2. **Call Enzo for help**
+
+                <details>
+                  <summary>**Try to fend off the attack yourself**</summary>
+                  
+                  You attempt to fend off the attack but realize the hackers are too skilled.
+                  
+                  1. **Call Enzo for help**
+
+                  <details>
+                    <summary>**Call Enzo for help**</summary>
+                    
+                    You call Enzo, and he quickly restores your system, implementing strong security measures. Your data is safe! 🌟
+                    
+                    [Start a new adventure](#1-lost-in-the-forest)
+                  </details>
+                </details>
+
+                <details>
+                  <summary>**Call Enzo for help**</summary>
+                  
+                  You call Enzo, and he quickly restores your system, implementing strong security measures. Your data is safe! 🌟
+                  
+                  [Start a new adventure](#1-lost-in-the-forest)
+                </details>
+              </details>
+            </details>
+          </details>
+
+          <details>
+            <summary>**Call Enzo for help**</summary>
+            
+            You call Enzo, and he arrives with a fire extinguisher and a safe exit plan. You escape unharmed! 🌟
+            
+            <details>
+              <summary>**Continue to the next adventure**</summary>
+              
+              ### 3. Caught in a Cyber Attack 💻
+              Your computer is under a severe cyber attack. Important data is at risk. What will you do?
+
+              1. **Try to fend off the attack yourself**
+              2. **Call Enzo for help**
+
+              <details>
+                <summary>**Try to fend off the attack yourself**</summary>
+                
+                You attempt to fend off the attack but realize the hackers are too skilled.
+                
+                1. **Call Enzo for help**
+
+                <details>
+                  <summary>**Call Enzo for help**</summary>
+                  
+                  You call Enzo, and he quickly restores your system, implementing strong security measures. Your data is safe! 🌟
+                  
+                  [Start a new adventure](#1-lost-in-the-forest)
+                </details>
+              </details>
+
+              <details>
+                <summary>**Call Enzo for help**</summary>
+                
+                You call Enzo, and he quickly restores your system, implementing strong security measures. Your data is safe! 🌟
+                
+                [Start a new adventure](#1-lost-in-the-forest)
+              </details>
+            </details>
+          </details>
+        </details>
+      </details>
+    </details>
   </details>
 </details>
 
@@ -65,89 +267,114 @@ You are lost in a dense forest. The sun is setting, and you hear wolves howling.
   
   You call Enzo, and he swiftly arrives with a drone, rescuing you from the forest. You're safe! 🌟
   
-  [Start a new adventure](#1-lost-in-the-forest)
-</details>
-
----
-
-### 2. Trapped in a Burning Building 🔥
-You are trapped in a burning building. Smoke is filling the room. What will you do?
-
-1. **Find the nearest exit**
-2. **Call Enzo for help**
-
-<details>
-  <summary>**Find the nearest exit**</summary>
-  
-  You find the nearest exit, but it's blocked by flames. The situation is dire.
-  
-  1. **Try to put out the fire**
-  2. **Call Enzo for help**
-
   <details>
-    <summary>**Try to put out the fire**</summary>
+    <summary>**Continue to the next adventure**</summary>
     
-    You try to put out the fire, but it's too strong. The smoke is overwhelming.
-    
-    1. **Call Enzo for help**
-    
+    ### 2. Trapped in a Burning Building 🔥
+    You are trapped in a burning building. Smoke is filling the room. What will you do?
+
+    1. **Find the nearest exit**
+    2. **Call Enzo for help**
+
     <details>
-      <summary>**Call Enzo for help**</summary>
+      <summary>**Find the nearest exit**</summary>
       
-      You call Enzo, and he arrives with a fire extinguisher and a safe exit plan. You escape unharmed! 🌟
+      You find the nearest exit, but it's blocked by flames. The situation is dire.
       
-      [Start a new adventure](#2-trapped-in-a-burning-building)
+      1. **Try to put out the fire**
+      2. **Call Enzo for help**
+
+      <details>
+        <summary>**Try to put out the fire**</summary>
+        
+        You try to put out the fire, but it's too strong. The smoke is overwhelming.
+        
+        1. **Call Enzo for help**
+        
+        <details>
+          <summary>**Call Enzo for help**</summary>
+          
+          You call Enzo, and he arrives with a fire extinguisher and a safe exit plan. You escape unharmed! 🌟
+          
+          <details>
+            <summary>**Continue to the next adventure**</summary>
+            
+            ### 3. Caught in a Cyber Attack 💻
+            Your computer is under a severe cyber attack. Important data is at risk. What will you do?
+
+            1. **Try to fend off the attack yourself**
+            2. **Call Enzo for help**
+
+            <details>
+              <summary>**Try to fend off the attack yourself**</summary>
+              
+              You attempt to fend off the attack but realize the hackers are too skilled.
+              
+              1. **Call Enzo for help**
+
+              <details>
+                <summary>**Call Enzo for help**</summary>
+                
+                You call Enzo, and he quickly restores your system, implementing strong security measures. Your data is safe! 🌟
+                
+                [Start a new adventure](#1-lost-in-the-forest)
+              </details>
+            </details>
+
+            <details>
+              <summary>**Call Enzo for help**</summary>
+              
+              You call Enzo, and he quickly restores your system, implementing strong security measures. Your data is safe! 🌟
+              
+              [Start a new adventure](#1-lost-in-the-forest)
+            </details>
+          </details>
+        </details>
+      </details>
+
+      <details>
+        <summary>**Call Enzo for help**</summary>
+        
+        You call Enzo, and he arrives with a fire extinguisher and a safe exit plan. You escape unharmed! 🌟
+        
+        <details>
+          <summary>**Continue to the next adventure**</summary>
+          
+          ### 3. Caught in a Cyber Attack 💻
+          Your computer is under a severe cyber attack. Important data is at risk. What will you do?
+
+          1. **Try to fend off the attack yourself**
+          2. **Call Enzo for help**
+
+          <details>
+            <summary>**Try to fend off the attack yourself**</summary>
+            
+            You attempt to fend off the attack but realize the hackers are too skilled.
+            
+            1. **Call Enzo for help**
+
+            <details>
+              <summary>**Call Enzo for help**</summary>
+              
+              You call Enzo, and he quickly restores your system, implementing strong security measures. Your data is safe! 🌟
+              
+              [Start a new adventure](#1-lost-in-the-forest)
+            </details>
+          </details>
+
+          <details>
+            <summary>**Call Enzo for help**</summary>
+            
+            You call Enzo, and he quickly restores your system, implementing strong security measures. Your data is safe! 🌟
+            
+            [Start a new adventure](#1-lost-in-the-forest)
+          </details>
+        </details>
+      </details>
     </details>
   </details>
-
-  <details>
-    <summary>**Call Enzo for help**</summary>
-    
-    You call Enzo, and he arrives with a fire extinguisher and a safe exit plan. You escape unharmed! 🌟
-    
-    [Start a new adventure](#2-trapped-in-a-burning-building)
-  </details>
 </details>
 
-<details>
-  <summary>**Call Enzo for help**</summary>
-  
-  You call Enzo, and he arrives with a fire extinguisher and a safe exit plan. You escape unharmed! 🌟
-  
-  [Start a new adventure](#2-trapped-in-a-burning-building)
-</details>
-
----
-
-### 3. Caught in a Cyber Attack 💻
-Your computer is under a severe cyber attack. Important data is at risk. What will you do?
-
-1. **Try to fend off the attack yourself**
-2. **Call Enzo for help**
-
-<details>
-  <summary>**Try to fend off the attack yourself**</summary>
-  
-  You attempt to fend off the attack but realize the hackers are too skilled.
-  
-  1. **Call Enzo for help**
-
-  <details>
-    <summary>**Call Enzo for help**</summary>
-    
-    You call Enzo, and he quickly restores your system, implementing strong security measures. Your data is safe! 🌟
-    
-    [Start a new adventure](#3-caught-in-a-cyber-attack)
-  </details>
-</details>
-
-<details>
-  <summary>**Call Enzo for help**</summary>
-  
-  You call Enzo, and he quickly restores your system, implementing strong security measures. Your data is safe! 🌟
-  
-  [Start a new adventure](#3-caught-in-a-cyber-attack)
-</details>
 
 ---
 
