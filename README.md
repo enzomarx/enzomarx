@@ -2,13 +2,10 @@
 
 👋 Hi there! I'm Enzo Marx, your Full Stack Developer and the hero of this story. Let's embark on an ironic adventure where I save the day in various perilous situations!
 
-## 🚀 Choose Your Adventure
+## 🚀 Choose Your Adventure 🦹‍♂️
 
 ### 1. Lost in the Forest 🌲
 You are lost in a dense forest. The sun is setting, and you hear wolves howling. What will you do?
-
-1. **Climb a tree for safety**
-2. **Call Enzo for help**
 
 <details>
   <summary>**Climb a tree for safety**</summary>
