@@ -1,6 +1,4 @@
 <div align="center">
-
-
 # 👾 Welcome to Enzo Marx's GitHub! 🎮
 
 👋 Hi there! I'm Enzo Marx, your Full Stack Developer and the hero of this story. Let's embark on an ironic adventure where I save the day in various perilous situations!
