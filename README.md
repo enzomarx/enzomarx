@@ -1,3 +1,7 @@
+<div align="center">
+  <a href="[(https://github.com/enzomarx)]">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CTorressjr&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+
 # 👾 Welcome to Enzo Marx's GitHub! 🎮
 
 👋 Hi there! I'm Enzo Marx, your Full Stack Developer and the hero of this story. Let's embark on an ironic adventure where I save the day in various perilous situations!
