@@ -1,6 +1,5 @@
 <div align="center">
-  <a href="[(https://github.com/enzomarx)]">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzomarx&show_icons=true&theme=transparent)
+
 
 # 👾 Welcome to Enzo Marx's GitHub! 🎮
 
