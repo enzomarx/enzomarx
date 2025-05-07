@@ -10,13 +10,13 @@
 You are lost in a dense forest. The sun is setting, and you hear wolves howling. What will you do?
 
 <details>
-  <summary>**Climb a tree for safety**</summary>
+  <summary>Climb a tree for safety</summary>
   You climb a tree but realize it's infested with bees! The situation worsens.
   <details>
-    <summary>**Jump down and run**</summary>
+    <summary>Jump down and run</summary>
     You jump down and run, but trip over a root and hurt your ankle. The wolves are closing in.
     <details>
-      <summary>**Crawl to safety**</summary>
+      <summary>Crawl to safety</summary>
       You try to crawl to safety but realize it's hopeless. Just as you think all is lost...
       <details>
         <summary>**Call Enzo for help**</summary>
