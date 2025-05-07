@@ -19,33 +19,33 @@ You are lost in a dense forest. The sun is setting, and you hear wolves howling.
       <summary>Crawl to safety</summary>
       You try to crawl to safety but realize it's hopeless. Just as you think all is lost...
       <details>
-        <summary>**Call Enzo for help**</summary>
+        <summary>Call Enzo for help</summary>
         You call Enzo, and he swiftly arrives with a drone, rescuing you from the forest. You're safe! 🌟
       </details>
     </details>
     <details>
-      <summary>**Call Enzo for help**</summary>
+      <summary>Call Enzo for help</summary>
       You call Enzo, and he swiftly arrives with a drone, rescuing you from the forest. You're safe! 🌟
     </details>
   </details>
   <details>
-    <summary>**Call Enzo for help**</summary>
+    <summary>Call Enzo for help</summary>
     You call Enzo, and he swiftly arrives with a drone, rescuing you from the forest. You're safe! 🌟
   </details>
 </details>
 
 <details>
-  <summary>**Call Enzo for help**</summary>
+  <summary>Call Enzo for help</summary>
   You call Enzo, and he swiftly arrives with a drone, rescuing you from the forest. You're safe! 🌟
 </details>
 
 <details>
-  <summary>**Continue to the next adventure**</summary>
+  <summary>Continue to the next adventure</summary>
   ### 2. Trapped in a Burning Building 🔥
   You are trapped in a burning building. Smoke is filling the room. What will you do?
   
   <details>
-    <summary>**Find the nearest exit**</summary>
+    <summary>Find the nearest exit</summary>
     You find the nearest exit, but it's blocked by flames. The situation is dire.
     <details>
       <summary>**Try to put out the fire**</summary>
