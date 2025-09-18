@@ -32,7 +32,7 @@
 <br><h2></h2><br>
 
 <div align="center"> 
-<img src= "https://github-readme-stats.vercel.app/api?username=enzomarx&theme=radical" width="46%" alt="stats graph" />
+<!-- <img src= "https://github-readme-stats.vercel.app/api?username=enzomarx&theme=radical" width="46%" alt="stats graph" />  -->
 
 <img src= "https://github-readme-streak-stats-eight.vercel.app/?user=enzomarx&theme=radical&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
 
