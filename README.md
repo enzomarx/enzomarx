@@ -20,7 +20,7 @@
   </p>  
   <p>  
   <h3><strong> 📖 Currently Studying </strong></h3>
-  <img src="https://skillicons.dev/icons?i=react,spring,sql" width="15%">   
+  <img src="https://skillicons.dev/icons?i=react,spring,mysql" width="15%">   
   </p> 
  </div> 
  
