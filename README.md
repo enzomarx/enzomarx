@@ -38,15 +38,3 @@
 
 </div>
 <br>
-
-<!---
-julsales/julsales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
----
-
-## 🎉 Thanks for Playing!
-Remember, when in danger, always call Enzo! Want to see my projects and contributions? Check out my repositories below.
-
-[My Repositories](https://github.com/enzomarx?tab=repositories)
