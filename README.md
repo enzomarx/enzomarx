@@ -1,91 +1,48 @@
+
 <div align="center">
-  
-# 👾 Welcome to Enzo Marx's GitHub! 🎮
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+J%C3%BAlia+!+!;Welcome+to+my+Github+page+%3A)" alt="Typing SVG" width="50%" />
+  </a>
+  <br>
+  <a href="mailto:enzomarxsantos@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 
-👋 Hi there! I'm Enzo Marx, your Full Stack Developer and the hero of this story. Let's embark on an ironic adventure where I save the day in various perilous situations!
+  <a href="https://www.linkedin.com/in/enzo-marx-lopes-dos-santos/" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+<h2></h2>
+  <br>
+<img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="50%">
 
-## 🚀 Choose Your Adventure 🦹‍♂️
+<div align="left">
+  <p>
+  <h3><strong> 💻 My Skills </strong> </h3>
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,django,azure,cypress" width="30%">
+  </p>  
+  <p>  
+  <h3><strong> 📖 Currently Studying </strong></h3>
+  <img src="https://skillicons.dev/icons?i=lua,spring,mysql,godot" width="15%">   
+  </p> 
+ </div> 
+ 
+ <div align="center">
+  <br><h2></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=enzomarx&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+ </div>
+ 
+<br><h2></h2><br>
 
-### 1. Lost in the Forest 🌲
-You are lost in a dense forest. The sun is setting, and you hear wolves howling. What will you do?
+<div align="center"> 
+<img src= "https://github-readme-stats.vercel.app/api?username=enzomarx&theme=radical" width="46%" alt="stats graph" />
 
-<details>
-  <summary>Climb a tree for safety</summary>
-  You climb a tree but realize it's infested with bees! The situation worsens.
-  <details>
-    <summary>Jump down and run</summary>
-    You jump down and run, but trip over a root and hurt your ankle. The wolves are closing in.
-    <details>
-      <summary>Crawl to safety</summary>
-      You try to crawl to safety but realize it's hopeless. Just as you think all is lost...
-      <details>
-        <summary>Call Enzo for help</summary>
-        You call Enzo, and he swiftly arrives with a drone, rescuing you from the forest. You're safe! 🌟
-      </details>
-    </details>
-    <details>
-      <summary>Call Enzo for help</summary>
-      You call Enzo, and he swiftly arrives with a drone, rescuing you from the forest. You're safe! 🌟
-    </details>
-  </details>
-  <details>
-    <summary>Call Enzo for help</summary>
-    You call Enzo, and he swiftly arrives with a drone, rescuing you from the forest. You're safe! 🌟
-  </details>
-</details>
+<img src= "https://github-readme-streak-stats-eight.vercel.app/?user=enzomarx&theme=radical&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
 
-<details>
-  <summary>Call Enzo for help</summary>
-  You call Enzo, and he swiftly arrives with a drone, rescuing you from the forest. You're safe! 🌟
-</details>
+</div>
+<br>
 
-<details>
-  <summary>Continue to the next adventure</summary>
-  ### 2. Trapped in a Burning Building 🔥
-  You are trapped in a burning building. Smoke is filling the room. What will you do?
-  
-  <details>
-    <summary>Find the nearest exit</summary>
-    You find the nearest exit, but it's blocked by flames. The situation is dire.
-    <details>
-      <summary>Try to put out the fire</summary>
-      You try to put out the fire, but it's too strong. The smoke is overwhelming.
-      <details>
-        <summary>Call Enzo for help</summary>
-        You call Enzo, and he arrives with a fire extinguisher and a safe exit plan. You escape unharmed! 🌟
-      </details>
-    </details>
-    <details>
-      <summary>Call Enzo for help</summary>
-      You call Enzo, and he arrives with a fire extinguisher and a safe exit plan. You escape unharmed! 🌟
-    </details>
-  </details>
-  <details>
-    <summary>Call Enzo for help</summary>
-    You call Enzo, and he arrives with a fire extinguisher and a safe exit plan. You escape unharmed! 🌟
-  </details>
-</details>
-
-<details>
-  <summary>Continue to the next adventure</summary>
-  ### 3. Caught in a Cyber Attack 💻
-  Your computer is under a severe cyber attack. Important data is at risk. What will you do?
-
-  <details>
-    <summary>Try to fend off the attack yourself</summary>
-    You attempt to fend off the attack but realize the hackers are too skilled.
-    <details>
-      <summary>Call Enzo for help</summary>
-      You call Enzo, and he quickly restores your system, implementing strong security measures. Your data is safe! 🌟
-    </details>
-  </details>
-  <details>
-    <summary>Call Enzo for help</summary>
-    You call Enzo, and he quickly restores your system, implementing strong security measures. Your data is safe! 🌟
-  </details>
-</details>
-
-[Start a new adventure](https://github.com/enzomarx/send-me-an-email)
+<!---
+julsales/julsales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 ---
 
