@@ -16,7 +16,7 @@
 <div align="left">
   <p>
   <h3><strong> 💻 My Skills </strong> </h3>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,selenium,gcp,godot,react" width="30%">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,selenium,gcp,firebase,godot,react" width="30%">
   </p>  
   <p>  
   <h3><strong> 📖 Currently Studying </strong></h3>
